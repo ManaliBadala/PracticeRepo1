@@ -9,6 +9,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="Branch1.html" />
-    <Content Include="Master.txt" />
+    <Content Include="Branch1Text.txt" />
   </ItemGroup>
 </Project>
