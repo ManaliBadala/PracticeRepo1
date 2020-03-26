@@ -1,9 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk.Web" ToolsVersion="Current">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web" ToolsVersion="Current">
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <OldToolsVersion>2.0</OldToolsVersion>
     <UpgradeBackupLocation />
+    <ProjectGuid>{98118D3D-E736-46F0-BF6A-42B8E059AE7F}</ProjectGuid>
   </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Master.txt" />
+  </ItemGroup>
 </Project>
