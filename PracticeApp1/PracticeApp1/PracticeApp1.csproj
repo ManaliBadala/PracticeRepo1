@@ -8,6 +8,7 @@
     <ProjectGuid>{98118D3D-E736-46F0-BF6A-42B8E059AE7F}</ProjectGuid>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="Branch1.html" />
     <Content Include="Master.txt" />
   </ItemGroup>
 </Project>
